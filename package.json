@@ -1,0 +1,11 @@
+{
+  "name": "modelarena",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A side-by-side model-output comparison workspace; current examples are demonstrations, not live evaluations.",
+  "scripts": {
+    "test": "node --test",
+    "validate": "node scripts/validate-static-app.mjs"
+  }
+}
